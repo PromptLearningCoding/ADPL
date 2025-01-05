@@ -1,6 +1,6 @@
 # Code for ADPL
 
-Code for the paper 'ADPL: Attentive Dual-Modality Prompt Tuning for Enhanced Vision-Language Understanding'
+Code for the paper 'ADPL: Attentive Dual Modality Prompt Learning for Vision-Language Understanding'
 
 ## Installation
 
